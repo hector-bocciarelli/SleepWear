@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: "Arima", system-ui;
+  font-size: 18px;
+  color: #1b2a30;
+  background-color: rgb(240,240,240);
+}
+
+h1, h2{
+  font-family: Tahoma;
+  color: #1b2a30;
+  letter-spacing: 2px;
+h3{
+  font-family:"Arima", system-ui;
+}
+
+}
+a {
+  text-decoration: none;
+}
