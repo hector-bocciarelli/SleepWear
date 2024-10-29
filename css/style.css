@@ -13,7 +13,7 @@ body {
 }
 
 h1, h2{
-  font-family: Tahoma;
+  font-family: Tahoma, sans-serif;
   color: #1b2a30;
   letter-spacing: 2px;
 h3{
